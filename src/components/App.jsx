@@ -1,9 +1,9 @@
-import RegisterForm from "./RegisterForm/RegisterForm"
+import Register from "../pages/Register/Register"
 
 export const App = () => {
   return (
     <div>
-      <RegisterForm></RegisterForm>
+      <Register></Register>
     </div>
   
   );
