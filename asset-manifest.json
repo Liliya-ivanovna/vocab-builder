@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vocab-builder/static/css/main.1f9b637c.css",
-    "main.js": "/vocab-builder/static/js/main.da15f2b3.js",
+    "main.js": "/vocab-builder/static/js/main.16d4e995.js",
     "static/media/illustration.jpg": "/vocab-builder/static/media/illustration.a10f97840a89970090cb.jpg",
     "static/media/sprite.svg": "/vocab-builder/static/media/sprite.21ebdf55ab6553f71604020f6fb73722.svg",
     "index.html": "/vocab-builder/index.html",
     "main.1f9b637c.css.map": "/vocab-builder/static/css/main.1f9b637c.css.map",
-    "main.da15f2b3.js.map": "/vocab-builder/static/js/main.da15f2b3.js.map"
+    "main.16d4e995.js.map": "/vocab-builder/static/js/main.16d4e995.js.map"
   },
   "entrypoints": [
     "static/css/main.1f9b637c.css",
-    "static/js/main.da15f2b3.js"
+    "static/js/main.16d4e995.js"
   ]
 }
